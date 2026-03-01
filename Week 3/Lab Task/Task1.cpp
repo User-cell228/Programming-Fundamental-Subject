@@ -8,5 +8,5 @@ main()
  cin>>Dollars;
  int Rupees;
  Rupees = Dollars * DollarsPrice;
- cout<<Dollars : <<" Into Rupess Are : " << Rupees;
+ cout<<Dollars<<" Into Rupess Are : " << Rupees;
 }
