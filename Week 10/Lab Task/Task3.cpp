@@ -9,5 +9,5 @@ int main()
     cout<<"Enter your Second Number :";
     cin>>num2;
      cout<<"Largest number is :"<<max(num1,num2);
-     return 0;
+     
 }

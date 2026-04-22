@@ -4,7 +4,7 @@ int add(int a,int b)
 {
 return a+b;
 }
-int main()
+ main()
 {
  int n1,n2;
  cout<<"enter your first number :";
@@ -13,5 +13,5 @@ int main()
  cin>>n2;
  int sum=add(n1,n2);
  cout<<sum;
- return 0;
+ 
 }

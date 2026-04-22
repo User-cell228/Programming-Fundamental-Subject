@@ -7,7 +7,7 @@ int main(){
    cout<<" Enter a three-digit number: ";
     cin>>num1;
    bool ans = isSymmetrical(num1);
-   return 0;
+   
 }
 bool isSymmetrical(int num1) {
     

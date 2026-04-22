@@ -9,5 +9,4 @@ int main()
         cout<<"name :";
         Sleep(200);
     }
-    return 0;
-}
+    

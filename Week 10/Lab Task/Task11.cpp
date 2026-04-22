@@ -6,7 +6,7 @@ int main(){
     cout<<" Enter a five-digit number: ";
     cin>>num1;
     oddEven(num1);
-    return 0;
+    
 }
 // 1 + 2 + 3 + 4 + 5 = 15
 // 15 % 2 = 1 (odd)

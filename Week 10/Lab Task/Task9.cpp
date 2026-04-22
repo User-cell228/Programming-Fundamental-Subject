@@ -5,7 +5,7 @@ int main(){
 char letter;
 cin>>letter;
 
-return 0;
+
 }
 int checkAlphabetCase(char letter){
     if (letter >= 'A' && letter <= 'Z') {
@@ -15,5 +15,5 @@ int checkAlphabetCase(char letter){
     } else {
         cout << "The character is not an alphabet letter." << endl;
     }
-    return 0;
+  
 }

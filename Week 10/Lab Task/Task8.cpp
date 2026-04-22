@@ -8,7 +8,7 @@ int main(){
     cin>>num1;
 
    int result = myFunction(num1);
-    return 0;
+   
 }
 int myFunction(int num1){
     int total;
